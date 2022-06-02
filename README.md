@@ -55,6 +55,12 @@ vi .env
 
 Put your values into the `.env` file.
 
+## Compile
+
+```shell
+npx hardhat compile
+```
+
 ## Running tests
 
 ```shell
